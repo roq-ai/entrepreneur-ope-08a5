@@ -1,0 +1,1842 @@
+[
+  {
+    "vision_strategy": [
+      {
+        "id": "f8d9dbd6-cf21-4511-8c17-b07101e47d9c",
+        "created_at": "2023-10-10T09:47:13.238Z",
+        "updated_at": "2023-10-09T21:53:59.408Z"
+      },
+      {
+        "id": "ea8c1b31-e60e-4502-98e6-5b07adaa224e",
+        "created_at": "2023-10-10T01:24:29.159Z",
+        "updated_at": "2023-10-10T13:41:27.458Z"
+      },
+      {
+        "id": "177043fa-6de7-4144-b543-fc9ac71f2456",
+        "created_at": "2023-10-09T16:30:05.478Z",
+        "updated_at": "2023-10-10T07:04:31.963Z"
+      },
+      {
+        "id": "f8ec6232-9481-47d5-b704-857bbd7967e8",
+        "created_at": "2023-10-10T13:53:30.701Z",
+        "updated_at": "2023-10-10T09:07:32.520Z"
+      },
+      {
+        "id": "4b737733-5545-4acb-af14-acc18bddd520",
+        "created_at": "2023-10-09T17:29:04.625Z",
+        "updated_at": "2023-10-09T23:22:53.780Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "27b7cb2a-49be-4bee-bc64-b680cf9a38f3",
+        "created_at": "2023-10-09T21:56:17.967Z",
+        "updated_at": "2023-10-10T03:53:20.624Z"
+      },
+      {
+        "id": "a589268d-a66b-4656-a832-81315b59a044",
+        "created_at": "2023-10-10T06:53:45.480Z",
+        "updated_at": "2023-10-09T21:12:01.549Z"
+      },
+      {
+        "id": "9f194532-7d1e-4341-a0be-ba51f6162b0a",
+        "created_at": "2023-10-09T20:52:41.558Z",
+        "updated_at": "2023-10-09T21:40:53.299Z"
+      },
+      {
+        "id": "8f649478-1e6e-4f96-8d80-02e6e14bb147",
+        "created_at": "2023-10-09T22:33:02.059Z",
+        "updated_at": "2023-10-10T01:28:37.620Z"
+      },
+      {
+        "id": "216a6938-8a2e-4c07-8ea3-12032b6fec7c",
+        "created_at": "2023-10-09T23:56:58.783Z",
+        "updated_at": "2023-10-10T01:27:04.251Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "63877b77-bd1e-4238-8eb0-2ffece31fbe4",
+        "created_at": "2023-10-09T19:31:46.247Z",
+        "updated_at": "2023-10-10T02:27:18.606Z"
+      },
+      {
+        "id": "6dd0e1bd-8e88-4327-945d-bb2f444c71b7",
+        "created_at": "2023-10-10T08:19:59.906Z",
+        "updated_at": "2023-10-10T08:03:51.447Z"
+      },
+      {
+        "id": "b4e80d7b-7d13-4d98-b1be-195ae9b1912e",
+        "created_at": "2023-10-10T06:03:52.323Z",
+        "updated_at": "2023-10-09T19:03:08.032Z"
+      },
+      {
+        "id": "ab464e5d-3e89-44fa-80f1-043e62a72c49",
+        "created_at": "2023-10-10T12:55:06.168Z",
+        "updated_at": "2023-10-10T14:32:26.832Z"
+      },
+      {
+        "id": "909633b1-fc8e-4ff4-bf63-728d0f79277e",
+        "created_at": "2023-10-10T15:03:36.655Z",
+        "updated_at": "2023-10-10T01:46:08.695Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "6a06f4e2-152c-46ff-a196-2c061bed8f8e",
+        "created_at": "2023-10-10T06:53:12.505Z",
+        "updated_at": "2023-10-10T12:22:37.547Z"
+      },
+      {
+        "id": "5c822097-b4bf-46b5-bbdb-cf2cb3545bba",
+        "created_at": "2023-10-09T22:19:37.162Z",
+        "updated_at": "2023-10-10T02:43:30.130Z"
+      },
+      {
+        "id": "1c520f6e-7894-42b0-8a7d-2ab02c91112e",
+        "created_at": "2023-10-09T17:59:03.255Z",
+        "updated_at": "2023-10-09T19:09:09.664Z"
+      },
+      {
+        "id": "3d69d4d4-f00c-4656-bd77-22dd6b7c87bd",
+        "created_at": "2023-10-10T08:34:17.247Z",
+        "updated_at": "2023-10-10T06:07:50.484Z"
+      },
+      {
+        "id": "8a1d8a41-8dc5-4689-9c0c-4e601829bb11",
+        "created_at": "2023-10-09T21:13:14.542Z",
+        "updated_at": "2023-10-10T09:26:01.423Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "2a402c0b-4071-4ece-a1fd-98c38835f3b9",
+        "created_at": "2023-10-10T09:39:04.915Z",
+        "updated_at": "2023-10-10T12:01:20.708Z"
+      },
+      {
+        "id": "771b8379-34f6-41d4-9d19-2e2353d9bc0f",
+        "created_at": "2023-10-10T15:28:51.254Z",
+        "updated_at": "2023-10-10T03:13:56.601Z"
+      },
+      {
+        "id": "79fbf4b6-0b54-4fd6-a6bc-cf82fbc21f33",
+        "created_at": "2023-10-10T00:21:28.372Z",
+        "updated_at": "2023-10-10T00:43:14.954Z"
+      },
+      {
+        "id": "7b8da2d7-76bd-42ad-a38e-b32c161f39c2",
+        "created_at": "2023-10-10T04:26:14.347Z",
+        "updated_at": "2023-10-10T09:25:59.482Z"
+      },
+      {
+        "id": "fc903a2a-1818-4dc9-b30d-cf49bb022452",
+        "created_at": "2023-10-10T15:26:29.772Z",
+        "updated_at": "2023-10-10T01:17:47.538Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "033800a6-0240-48fc-a4dd-86842d7fc09b",
+        "email": "Pietro.Parisian2@roq.tech",
+        "firstName": "Malinda",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/777.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6aa8f64a-fe1b-4544-a33e-44aef00ea27f",
+        "email": "Grady.Feeney@roq.tech",
+        "firstName": "Joe",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33607887",
+        "tenantId": null
+      },
+      {
+        "reference": "20c0c016-b834-4c5f-95a6-d3fb9a34ae6b",
+        "email": "Kristin70@roq.tech",
+        "firstName": "Marian",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/96.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98125279-998f-419e-b5dd-daed9d695346",
+        "email": "Domenick.Jones69@roq.tech",
+        "firstName": "Monica",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/918.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "09351847-4e00-49bd-b158-cc13908992f2",
+        "email": "Garnet_Parisian@roq.tech",
+        "firstName": "Dylan",
+        "lastName": "Wilkinson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/36.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "a5ff0384-5bc5-400c-8f8d-5d963ab468e9",
+        "created_at": "2023-10-10T09:54:49.350Z",
+        "updated_at": "2023-10-10T10:49:39.155Z"
+      },
+      {
+        "id": "b64e7796-25b5-4f43-a76c-a41135dbfba8",
+        "created_at": "2023-10-09T22:28:08.091Z",
+        "updated_at": "2023-10-09T16:31:45.588Z"
+      },
+      {
+        "id": "e53385cc-db0a-452c-a77d-75e5db924671",
+        "created_at": "2023-10-09T17:26:03.308Z",
+        "updated_at": "2023-10-10T15:30:08.874Z"
+      },
+      {
+        "id": "b2d45d17-8a16-4cfe-b449-bed9f706e6a8",
+        "created_at": "2023-10-10T02:56:29.774Z",
+        "updated_at": "2023-10-10T07:07:19.856Z"
+      },
+      {
+        "id": "618307fe-4391-47c8-8b7f-1c2194a53eb3",
+        "created_at": "2023-10-10T08:16:55.817Z",
+        "updated_at": "2023-10-09T18:46:34.337Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "e4ef5126-cf5c-4882-84af-fc1ef1085c21",
+        "created_at": "2023-10-09T23:55:35.986Z",
+        "updated_at": "2023-10-09T20:42:03.159Z"
+      },
+      {
+        "id": "3526e7be-8bd4-49a6-9bed-e4ac81eba5da",
+        "created_at": "2023-10-10T14:12:31.960Z",
+        "updated_at": "2023-10-09T20:32:28.471Z"
+      },
+      {
+        "id": "2c22b040-d8ec-4de5-9052-b027fee75d93",
+        "created_at": "2023-10-10T13:09:56.677Z",
+        "updated_at": "2023-10-10T10:30:54.815Z"
+      },
+      {
+        "id": "79d565ad-ef95-48f9-96be-df5dc15272b3",
+        "created_at": "2023-10-10T00:08:37.009Z",
+        "updated_at": "2023-10-10T08:20:31.431Z"
+      },
+      {
+        "id": "79f5e003-de67-4d11-b519-b619a4c21554",
+        "created_at": "2023-10-09T21:18:46.422Z",
+        "updated_at": "2023-10-10T11:53:49.682Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "58aeb3a3-f910-43ad-8918-11d685ffb374",
+        "created_at": "2023-10-10T11:24:35.390Z",
+        "updated_at": "2023-10-09T15:43:39.779Z"
+      },
+      {
+        "id": "bac68711-86e6-49b4-964b-b77e62f8aa11",
+        "created_at": "2023-10-10T05:55:01.478Z",
+        "updated_at": "2023-10-10T01:46:52.765Z"
+      },
+      {
+        "id": "e2c26129-9e0e-4337-aa6f-185abe9e7daf",
+        "created_at": "2023-10-10T02:46:54.014Z",
+        "updated_at": "2023-10-09T20:12:34.506Z"
+      },
+      {
+        "id": "9b0c3b61-78c4-47af-982d-c1a301db9538",
+        "created_at": "2023-10-09T22:56:41.159Z",
+        "updated_at": "2023-10-10T10:17:36.334Z"
+      },
+      {
+        "id": "23b282a3-966f-4dd4-b0d4-feb6e8445336",
+        "created_at": "2023-10-10T08:45:05.888Z",
+        "updated_at": "2023-10-09T23:46:09.193Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "28e7f5ac-9cb5-45dd-ab93-17fb8631ea6d",
+        "created_at": "2023-10-09T19:26:59.353Z",
+        "updated_at": "2023-10-10T01:57:59.415Z"
+      },
+      {
+        "id": "585ef2a3-7001-42fe-ab57-85e219afe587",
+        "created_at": "2023-10-10T13:10:16.133Z",
+        "updated_at": "2023-10-10T05:28:10.323Z"
+      },
+      {
+        "id": "a229b97d-9451-48f5-94bd-ccd1489f8ddd",
+        "created_at": "2023-10-10T06:05:57.461Z",
+        "updated_at": "2023-10-09T23:24:26.845Z"
+      },
+      {
+        "id": "2a60fbd3-b9ea-4c12-bcc3-5bf73bc5183f",
+        "created_at": "2023-10-10T04:54:06.237Z",
+        "updated_at": "2023-10-10T12:18:14.730Z"
+      },
+      {
+        "id": "847fe8f3-7b27-48a3-b1d9-67e36dd1e268",
+        "created_at": "2023-10-10T12:30:25.742Z",
+        "updated_at": "2023-10-10T00:56:22.405Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "7530d3ff-e270-411b-ac0b-a4e009b3d0d0",
+        "created_at": "2023-10-10T03:57:24.663Z",
+        "updated_at": "2023-10-10T09:29:09.619Z"
+      },
+      {
+        "id": "703e73df-97d5-45fa-9504-16418cf85a43",
+        "created_at": "2023-10-10T02:10:35.714Z",
+        "updated_at": "2023-10-10T10:02:07.897Z"
+      },
+      {
+        "id": "3cfcd93f-3dcd-4e90-a7ef-c5e58154d454",
+        "created_at": "2023-10-10T05:29:02.959Z",
+        "updated_at": "2023-10-10T06:59:37.528Z"
+      },
+      {
+        "id": "e4a343a4-cc87-4ea0-b07e-a9e74628e1c7",
+        "created_at": "2023-10-09T23:11:21.788Z",
+        "updated_at": "2023-10-09T16:15:25.663Z"
+      },
+      {
+        "id": "e73290b4-bcb1-4cc3-b86d-836f612557dc",
+        "created_at": "2023-10-09T19:24:31.268Z",
+        "updated_at": "2023-10-09T21:37:30.707Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8e372f2c-777d-47ef-bcca-784c685c4483",
+        "email": "Shemar_Watsica@roq.tech",
+        "firstName": "Dayna",
+        "lastName": "Davis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/471.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4bfae7ac-d66e-4425-9ed0-2f70e6e28974",
+        "email": "Pearlie56@roq.tech",
+        "firstName": "Bartholome",
+        "lastName": "Cartwright-Bashirian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/31.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "147ad301-8d3d-47a2-9c7c-551c0e1ea6fa",
+        "email": "Lisette64@roq.tech",
+        "firstName": "Fiona",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80819376",
+        "tenantId": null
+      },
+      {
+        "reference": "12c3b05c-98a5-4cab-b17b-07d6b3ff675c",
+        "email": "Nakia.Botsford66@roq.tech",
+        "firstName": "Chelsie",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/725.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "249a4cd8-c4d6-4fe6-9e8c-5f85ef6fe46b",
+        "email": "Sonny23@roq.tech",
+        "firstName": "Waino",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94426485",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "86064294-5f3d-4e87-a41e-c6be4aabd21a",
+        "created_at": "2023-10-10T04:57:18.807Z",
+        "updated_at": "2023-10-10T00:47:30.304Z"
+      },
+      {
+        "id": "c2824abb-6427-41b7-8cb3-d226679723ad",
+        "created_at": "2023-10-09T18:17:38.055Z",
+        "updated_at": "2023-10-10T10:29:36.739Z"
+      },
+      {
+        "id": "720bddd3-c799-46b7-b14b-de126d020a97",
+        "created_at": "2023-10-10T03:25:34.111Z",
+        "updated_at": "2023-10-10T07:03:48.862Z"
+      },
+      {
+        "id": "6172347a-5377-440d-9f9d-fc070f7eba7b",
+        "created_at": "2023-10-10T15:08:44.804Z",
+        "updated_at": "2023-10-10T14:16:17.579Z"
+      },
+      {
+        "id": "65658697-625d-4e2a-89e5-edff237f05fb",
+        "created_at": "2023-10-10T05:13:34.873Z",
+        "updated_at": "2023-10-10T04:04:27.015Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "322f7026-a747-4cd0-beeb-67e57dd84c81",
+        "created_at": "2023-10-10T02:53:12.572Z",
+        "updated_at": "2023-10-10T12:49:53.344Z"
+      },
+      {
+        "id": "dc1c0e74-2c72-46e4-b9d4-101a59a89e65",
+        "created_at": "2023-10-10T06:57:55.640Z",
+        "updated_at": "2023-10-09T21:53:20.770Z"
+      },
+      {
+        "id": "0f72a2ed-a8b6-4758-9b6c-abe37b0c19f9",
+        "created_at": "2023-10-10T01:59:44.786Z",
+        "updated_at": "2023-10-09T21:33:17.965Z"
+      },
+      {
+        "id": "2b1e85c7-5d98-4930-8c12-59c5c6491340",
+        "created_at": "2023-10-10T02:58:31.931Z",
+        "updated_at": "2023-10-10T12:33:17.957Z"
+      },
+      {
+        "id": "45b92fa1-285a-431c-b4e2-4a77e2494801",
+        "created_at": "2023-10-10T06:06:24.334Z",
+        "updated_at": "2023-10-09T21:25:41.717Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "7350b898-1d1a-4b59-9b3e-7ca430b560fc",
+        "created_at": "2023-10-10T01:36:48.247Z",
+        "updated_at": "2023-10-10T07:22:09.505Z"
+      },
+      {
+        "id": "953c6b5a-b232-45aa-846f-3fc31df5a6d8",
+        "created_at": "2023-10-10T14:38:02.299Z",
+        "updated_at": "2023-10-10T10:25:15.623Z"
+      },
+      {
+        "id": "300dd5e0-0401-452a-b122-85a0b49e21fe",
+        "created_at": "2023-10-09T20:42:48.827Z",
+        "updated_at": "2023-10-10T05:06:16.786Z"
+      },
+      {
+        "id": "c565119b-2d6d-4750-9c95-e447b146feb3",
+        "created_at": "2023-10-10T02:04:08.947Z",
+        "updated_at": "2023-10-10T08:27:59.845Z"
+      },
+      {
+        "id": "7d03204e-4c11-4c5b-aaa1-ab1b9eb1838e",
+        "created_at": "2023-10-10T00:30:41.848Z",
+        "updated_at": "2023-10-10T03:14:02.455Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "4909d9d4-4bc9-4ec0-948b-bd7e74af26fb",
+        "created_at": "2023-10-10T14:00:55.014Z",
+        "updated_at": "2023-10-09T20:48:39.801Z"
+      },
+      {
+        "id": "065746b5-8da5-45e1-befb-6ca083993f22",
+        "created_at": "2023-10-10T05:15:35.270Z",
+        "updated_at": "2023-10-10T03:34:29.692Z"
+      },
+      {
+        "id": "d3f8a53f-c543-4df8-8794-c5e043913846",
+        "created_at": "2023-10-10T01:25:04.750Z",
+        "updated_at": "2023-10-10T11:33:22.333Z"
+      },
+      {
+        "id": "1cdbe642-3486-4bcf-9e4b-9ec3c2640977",
+        "created_at": "2023-10-10T13:08:34.131Z",
+        "updated_at": "2023-10-10T07:24:25.773Z"
+      },
+      {
+        "id": "ba1c962e-eb3f-47e3-90ab-cba7a1e51109",
+        "created_at": "2023-10-09T21:25:33.130Z",
+        "updated_at": "2023-10-09T23:40:32.221Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "9fedb83a-1fcc-48f2-8655-a74943c4c844",
+        "created_at": "2023-10-09T23:39:11.597Z",
+        "updated_at": "2023-10-10T12:44:00.058Z"
+      },
+      {
+        "id": "bb36b08b-54f6-40d7-a240-b364a9dba3c4",
+        "created_at": "2023-10-09T20:33:46.489Z",
+        "updated_at": "2023-10-10T14:53:43.354Z"
+      },
+      {
+        "id": "57d57b5d-8736-4a4d-86a5-9f1a4bc054f1",
+        "created_at": "2023-10-10T13:14:02.367Z",
+        "updated_at": "2023-10-10T01:44:12.390Z"
+      },
+      {
+        "id": "47f4167e-7f40-4483-ba6d-df238ef5cf94",
+        "created_at": "2023-10-10T11:51:58.341Z",
+        "updated_at": "2023-10-10T13:35:17.726Z"
+      },
+      {
+        "id": "42a9bb1f-a341-498a-a0f9-aa8ca71e5b5e",
+        "created_at": "2023-10-10T06:08:55.320Z",
+        "updated_at": "2023-10-10T03:44:48.603Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a8021866-9dcc-4dc9-9031-47f253a38af0",
+        "email": "Jed.Metz@roq.tech",
+        "firstName": "Zachery",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85314125",
+        "tenantId": null
+      },
+      {
+        "reference": "732a4793-df87-4af8-bdc9-2c6f3c15aa7e",
+        "email": "Rosalia_Metz81@roq.tech",
+        "firstName": "Dane",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69840851",
+        "tenantId": null
+      },
+      {
+        "reference": "b7fcc742-ba8e-4603-8272-417a8894b722",
+        "email": "Kristin_Rohan-Rosenbaum@roq.tech",
+        "firstName": "Koby",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/409.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "edba8ad0-1721-44c4-a382-ca21fd684632",
+        "email": "Else_Stamm30@roq.tech",
+        "firstName": "Lafayette",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/896.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2918c1af-0f5f-47f7-a561-98b558aa0333",
+        "email": "Leonel.Kovacek@roq.tech",
+        "firstName": "Dedric",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92923819",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "cff726fa-2415-4e08-bc31-bdd15fcf90fa",
+        "created_at": "2023-10-09T18:23:53.682Z",
+        "updated_at": "2023-10-10T13:20:32.603Z"
+      },
+      {
+        "id": "64a22366-d46a-4e05-8714-daa18176aae1",
+        "created_at": "2023-10-10T11:25:14.032Z",
+        "updated_at": "2023-10-10T06:27:59.142Z"
+      },
+      {
+        "id": "1087a401-bad7-46f1-a50a-58b15b1b6493",
+        "created_at": "2023-10-10T07:06:15.599Z",
+        "updated_at": "2023-10-09T18:28:46.078Z"
+      },
+      {
+        "id": "0ae011bc-4875-4a89-b585-4b7ea40a8bd9",
+        "created_at": "2023-10-09T18:07:06.353Z",
+        "updated_at": "2023-10-10T11:27:14.413Z"
+      },
+      {
+        "id": "4c9d6351-d2ca-4458-bdbe-c3daacdb68e9",
+        "created_at": "2023-10-10T04:38:42.953Z",
+        "updated_at": "2023-10-10T05:43:38.657Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "46ac482c-2b59-40ea-846d-43219b583e9b",
+        "created_at": "2023-10-10T06:53:56.386Z",
+        "updated_at": "2023-10-10T13:08:05.489Z"
+      },
+      {
+        "id": "954c5aa1-d2aa-4324-af48-6cb70e071d32",
+        "created_at": "2023-10-10T07:12:43.202Z",
+        "updated_at": "2023-10-09T16:12:11.169Z"
+      },
+      {
+        "id": "f9233056-aee5-4d82-bd54-aef8b3c692a9",
+        "created_at": "2023-10-10T09:40:12.712Z",
+        "updated_at": "2023-10-09T18:56:09.629Z"
+      },
+      {
+        "id": "b637ff12-a246-4b54-a86e-6a802f2ea9fb",
+        "created_at": "2023-10-10T13:19:11.484Z",
+        "updated_at": "2023-10-10T04:45:48.642Z"
+      },
+      {
+        "id": "fd9bd2ff-0cf2-4b15-ab9b-a614c16ce2ee",
+        "created_at": "2023-10-10T05:53:27.971Z",
+        "updated_at": "2023-10-10T09:28:30.056Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "51d7b83e-17c3-4e07-97b0-43a547c0e493",
+        "created_at": "2023-10-09T16:25:55.294Z",
+        "updated_at": "2023-10-09T16:07:21.011Z"
+      },
+      {
+        "id": "cc9dd9b9-ca1e-4dec-9b1f-0bcce867807b",
+        "created_at": "2023-10-10T10:09:33.292Z",
+        "updated_at": "2023-10-09T23:08:22.684Z"
+      },
+      {
+        "id": "d7bc83e5-b272-47c1-9b92-59ea12f0c476",
+        "created_at": "2023-10-10T07:11:30.814Z",
+        "updated_at": "2023-10-10T05:47:36.722Z"
+      },
+      {
+        "id": "678208db-a287-4ee1-adf5-321040d0cefd",
+        "created_at": "2023-10-10T00:23:34.564Z",
+        "updated_at": "2023-10-10T06:28:30.682Z"
+      },
+      {
+        "id": "acd8d746-df97-4ef8-b166-47ec56bb44eb",
+        "created_at": "2023-10-10T10:39:36.873Z",
+        "updated_at": "2023-10-09T20:22:34.649Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "fbe60e35-52af-420c-9467-c8b651e941d9",
+        "created_at": "2023-10-10T14:32:37.168Z",
+        "updated_at": "2023-10-09T18:02:32.138Z"
+      },
+      {
+        "id": "3eb34a9f-093d-4e20-b8a5-7990eabe3083",
+        "created_at": "2023-10-10T06:28:57.522Z",
+        "updated_at": "2023-10-10T15:40:43.461Z"
+      },
+      {
+        "id": "38b5146d-9357-4e66-88b5-8a7c74b4d5fc",
+        "created_at": "2023-10-10T02:35:54.780Z",
+        "updated_at": "2023-10-09T17:08:15.088Z"
+      },
+      {
+        "id": "81df521e-bf21-4538-880a-c59bd1bc89fa",
+        "created_at": "2023-10-10T00:47:19.787Z",
+        "updated_at": "2023-10-09T23:39:36.225Z"
+      },
+      {
+        "id": "7c703e5c-ecbc-4024-b878-5c69368a6491",
+        "created_at": "2023-10-10T00:59:12.045Z",
+        "updated_at": "2023-10-09T18:06:11.863Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "7582000f-6a16-41e2-ae2c-2a80ebd8a806",
+        "created_at": "2023-10-10T13:09:05.512Z",
+        "updated_at": "2023-10-09T22:52:46.197Z"
+      },
+      {
+        "id": "cff38102-253e-4a02-b7d7-2fdb64a6a070",
+        "created_at": "2023-10-09T21:58:56.483Z",
+        "updated_at": "2023-10-10T10:43:23.854Z"
+      },
+      {
+        "id": "b1a0eb9d-4917-4bb8-9b7d-deb646b23be3",
+        "created_at": "2023-10-10T01:56:28.857Z",
+        "updated_at": "2023-10-10T14:11:14.546Z"
+      },
+      {
+        "id": "60df1fa9-269d-4ea4-924d-499136ebf4a6",
+        "created_at": "2023-10-10T04:56:17.449Z",
+        "updated_at": "2023-10-10T04:29:38.518Z"
+      },
+      {
+        "id": "090e4a48-6e48-4f8f-bc16-415bd38b47cd",
+        "created_at": "2023-10-10T07:18:29.076Z",
+        "updated_at": "2023-10-10T13:51:57.308Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7153c75f-628c-4b73-accd-3225a21868c0",
+        "email": "Marge_Schneider96@roq.tech",
+        "firstName": "Ethyl",
+        "lastName": "Orn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e0101d71-92d8-424c-b855-390ce03ff818",
+        "email": "Harley15@roq.tech",
+        "firstName": "Marcellus",
+        "lastName": "Deckow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/134.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7a657168-bf8e-4000-b51f-a505b48490bd",
+        "email": "June.Rowe@roq.tech",
+        "firstName": "Aidan",
+        "lastName": "Boehm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79665977",
+        "tenantId": null
+      },
+      {
+        "reference": "1363a778-261d-443a-a26b-4dd23e679d26",
+        "email": "Aryanna.Reynolds@roq.tech",
+        "firstName": "Albin",
+        "lastName": "Block-Medhurst",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7802885",
+        "tenantId": null
+      },
+      {
+        "reference": "c4846ed3-79d4-48f5-82a2-3ff11fd34ac8",
+        "email": "Kory_Nikolaus55@roq.tech",
+        "firstName": "Kelley",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/968.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "49073b69-93d8-4697-a2d6-c020a60a7fd1",
+        "created_at": "2023-10-10T11:01:58.148Z",
+        "updated_at": "2023-10-09T21:40:07.449Z"
+      },
+      {
+        "id": "7f16f78c-7f03-4c52-8c79-6735a53c0df4",
+        "created_at": "2023-10-09T20:18:56.519Z",
+        "updated_at": "2023-10-10T08:12:47.918Z"
+      },
+      {
+        "id": "7488234e-8909-4499-9725-e327f1237bc1",
+        "created_at": "2023-10-10T00:29:07.190Z",
+        "updated_at": "2023-10-10T04:31:16.431Z"
+      },
+      {
+        "id": "79511ad5-fd33-441a-9835-6ecb4ca5c6ba",
+        "created_at": "2023-10-10T14:17:23.824Z",
+        "updated_at": "2023-10-10T01:21:06.347Z"
+      },
+      {
+        "id": "8df7e651-6a12-47d3-b9e8-983cf62ad37e",
+        "created_at": "2023-10-10T05:27:05.759Z",
+        "updated_at": "2023-10-09T22:34:48.053Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "3de8d315-e1b7-47df-89aa-574a81b1dfcb",
+        "created_at": "2023-10-09T18:17:29.147Z",
+        "updated_at": "2023-10-10T09:14:43.125Z"
+      },
+      {
+        "id": "0b4fe324-3a2a-476e-b580-197d2c8af351",
+        "created_at": "2023-10-09T17:48:46.629Z",
+        "updated_at": "2023-10-10T06:09:22.850Z"
+      },
+      {
+        "id": "3fce530d-3d41-4d88-a041-75b3d36059d0",
+        "created_at": "2023-10-10T14:27:06.385Z",
+        "updated_at": "2023-10-10T13:43:55.012Z"
+      },
+      {
+        "id": "cc6fe796-2a8d-415c-b665-4ac907427821",
+        "created_at": "2023-10-09T20:12:54.321Z",
+        "updated_at": "2023-10-09T16:22:36.429Z"
+      },
+      {
+        "id": "7c73541c-436d-4abc-b496-b364558e9c0b",
+        "created_at": "2023-10-09T16:25:17.931Z",
+        "updated_at": "2023-10-10T14:25:41.900Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "092febc5-cc10-4ff0-a912-1d68e73af7a3",
+        "created_at": "2023-10-09T18:26:04.204Z",
+        "updated_at": "2023-10-10T09:03:49.186Z"
+      },
+      {
+        "id": "8a7b3646-416f-4914-9002-47d9a4f34154",
+        "created_at": "2023-10-10T13:12:58.987Z",
+        "updated_at": "2023-10-10T03:59:09.834Z"
+      },
+      {
+        "id": "ca7294a0-e754-4db2-ad14-0f17ab3f9864",
+        "created_at": "2023-10-10T01:31:33.567Z",
+        "updated_at": "2023-10-10T10:21:20.417Z"
+      },
+      {
+        "id": "6efdeae7-50ff-42c9-a8e3-293107b85677",
+        "created_at": "2023-10-09T22:42:29.852Z",
+        "updated_at": "2023-10-09T18:39:49.509Z"
+      },
+      {
+        "id": "374b3895-a538-4e2d-9c9f-b609f92e3625",
+        "created_at": "2023-10-10T08:52:13.853Z",
+        "updated_at": "2023-10-09T17:15:15.943Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "37ae89b4-d9d8-4957-b1a2-900e24b8e3ef",
+        "created_at": "2023-10-10T11:42:26.321Z",
+        "updated_at": "2023-10-09T18:38:08.920Z"
+      },
+      {
+        "id": "405e6145-04c0-404e-89b1-d9f33745735f",
+        "created_at": "2023-10-10T07:12:05.294Z",
+        "updated_at": "2023-10-09T21:02:02.497Z"
+      },
+      {
+        "id": "41fd0f8e-cc70-40e2-af37-b4c24788eb66",
+        "created_at": "2023-10-09T19:49:51.726Z",
+        "updated_at": "2023-10-10T15:05:15.014Z"
+      },
+      {
+        "id": "b42ebfb0-986f-47be-a0b7-5feefba3b5ec",
+        "created_at": "2023-10-10T13:15:42.627Z",
+        "updated_at": "2023-10-10T09:06:15.647Z"
+      },
+      {
+        "id": "e0e352bd-8122-4c81-b1a4-ffca3e4bdb2f",
+        "created_at": "2023-10-10T03:46:38.494Z",
+        "updated_at": "2023-10-09T20:51:37.625Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "45506f51-5a25-4d01-9cca-b070901fb002",
+        "created_at": "2023-10-10T04:24:58.987Z",
+        "updated_at": "2023-10-10T14:46:10.425Z"
+      },
+      {
+        "id": "39f6de8b-6adc-4502-b4f7-cd6caabd14ac",
+        "created_at": "2023-10-10T12:24:04.103Z",
+        "updated_at": "2023-10-10T12:37:49.943Z"
+      },
+      {
+        "id": "a9b4fd39-24dc-4007-9d0a-d71ec21c48c7",
+        "created_at": "2023-10-10T07:51:11.589Z",
+        "updated_at": "2023-10-09T21:37:23.616Z"
+      },
+      {
+        "id": "2601a141-4df7-49d1-9ab6-f2c43da20c3b",
+        "created_at": "2023-10-10T13:39:39.427Z",
+        "updated_at": "2023-10-10T09:17:51.127Z"
+      },
+      {
+        "id": "aadf7a42-4384-45f7-9755-4a71dd22f386",
+        "created_at": "2023-10-10T13:08:01.506Z",
+        "updated_at": "2023-10-10T04:54:38.822Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f62f580e-d466-4fb2-8308-7e6881fd8a6d",
+        "email": "Twila45@roq.tech",
+        "firstName": "Fredrick",
+        "lastName": "Labadie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/894.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "70d3b27a-700e-4ccd-8bc2-69fceb937538",
+        "email": "Cyrus44@roq.tech",
+        "firstName": "Terry",
+        "lastName": "Walsh",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20772379",
+        "tenantId": null
+      },
+      {
+        "reference": "81ca177e-2582-4b4d-b479-7e4b38f92839",
+        "email": "Henderson_Labadie@roq.tech",
+        "firstName": "Lavonne",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/920.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "86705b51-1b46-4930-a724-b5ed88d6242d",
+        "email": "Ulises_Parker@roq.tech",
+        "firstName": "Judah",
+        "lastName": "Sporer-Green",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/230.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e5269dc7-a70e-4c8e-9b42-6b5fb61347b2",
+        "email": "Elmira17@roq.tech",
+        "firstName": "Brianne",
+        "lastName": "Bauch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/615.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "cc8911f1-f80e-4e9a-9765-e56507c06908",
+        "created_at": "2023-10-10T10:37:55.689Z",
+        "updated_at": "2023-10-10T15:06:03.234Z"
+      },
+      {
+        "id": "f43f9224-51bf-4294-819e-173779f87237",
+        "created_at": "2023-10-09T21:18:04.794Z",
+        "updated_at": "2023-10-10T15:26:05.196Z"
+      },
+      {
+        "id": "5b781548-7205-45fe-8534-375b3f6bc38c",
+        "created_at": "2023-10-09T18:52:18.378Z",
+        "updated_at": "2023-10-10T13:51:22.450Z"
+      },
+      {
+        "id": "5a843b12-a893-40b5-8f55-38787ac0641d",
+        "created_at": "2023-10-10T15:09:11.582Z",
+        "updated_at": "2023-10-10T13:15:25.836Z"
+      },
+      {
+        "id": "62f254a3-6ffe-44ad-a242-98bf064eddb5",
+        "created_at": "2023-10-10T00:36:58.647Z",
+        "updated_at": "2023-10-09T19:13:30.191Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "cf4b2c5a-6d0b-472f-b1b8-e4502d51cc25",
+        "created_at": "2023-10-10T13:56:15.286Z",
+        "updated_at": "2023-10-10T02:58:15.888Z"
+      },
+      {
+        "id": "afa88631-013d-422f-8341-6c1236c08f2f",
+        "created_at": "2023-10-10T14:02:10.228Z",
+        "updated_at": "2023-10-09T19:25:02.898Z"
+      },
+      {
+        "id": "3867eb6a-b2b5-43c3-9e64-331cc40c8077",
+        "created_at": "2023-10-10T15:02:10.507Z",
+        "updated_at": "2023-10-10T03:07:10.775Z"
+      },
+      {
+        "id": "c525385a-4461-457b-989c-a1bd46bccfc0",
+        "created_at": "2023-10-10T10:53:21.345Z",
+        "updated_at": "2023-10-10T02:12:17.021Z"
+      },
+      {
+        "id": "020cbb1c-d0a6-4c09-97e2-e1ecd4660508",
+        "created_at": "2023-10-10T00:39:30.673Z",
+        "updated_at": "2023-10-10T01:41:07.972Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "46279471-da97-4bad-a7b8-1d123e9aa7f9",
+        "created_at": "2023-10-10T14:02:08.841Z",
+        "updated_at": "2023-10-09T18:20:42.856Z"
+      },
+      {
+        "id": "74c53730-5fde-45a5-9d7a-2d18f7cf33e2",
+        "created_at": "2023-10-09T19:18:27.462Z",
+        "updated_at": "2023-10-09T23:56:27.641Z"
+      },
+      {
+        "id": "c3967884-0f0c-4315-9a12-3dcfcfe67a60",
+        "created_at": "2023-10-09T17:20:04.534Z",
+        "updated_at": "2023-10-10T13:00:52.073Z"
+      },
+      {
+        "id": "eb875589-b304-454a-8d0e-68ee09d293e6",
+        "created_at": "2023-10-09T16:17:40.112Z",
+        "updated_at": "2023-10-09T19:27:06.121Z"
+      },
+      {
+        "id": "3ffa6f68-9f44-4a00-9250-a6320f8beccd",
+        "created_at": "2023-10-09T20:36:44.449Z",
+        "updated_at": "2023-10-09T18:07:22.669Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "cbccc2de-9ded-4fa8-80f8-26ba7d82501f",
+        "created_at": "2023-10-10T11:26:23.545Z",
+        "updated_at": "2023-10-10T02:27:04.055Z"
+      },
+      {
+        "id": "b40ecc68-b060-46e7-b414-ad71201750a2",
+        "created_at": "2023-10-10T03:38:40.317Z",
+        "updated_at": "2023-10-10T03:03:14.081Z"
+      },
+      {
+        "id": "0b739662-2b37-43a5-80d5-f5af6a825560",
+        "created_at": "2023-10-09T23:18:11.718Z",
+        "updated_at": "2023-10-10T11:43:46.967Z"
+      },
+      {
+        "id": "1782da82-6645-4457-989d-5e94a80611ab",
+        "created_at": "2023-10-10T11:26:33.553Z",
+        "updated_at": "2023-10-10T03:06:18.457Z"
+      },
+      {
+        "id": "3d2cccce-3881-49de-b9f2-23dd3c5cc1a3",
+        "created_at": "2023-10-10T09:35:51.114Z",
+        "updated_at": "2023-10-10T05:19:27.587Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "7464cbdb-447d-42e6-b335-acf86f57f56c",
+        "created_at": "2023-10-10T03:28:47.887Z",
+        "updated_at": "2023-10-10T14:42:57.843Z"
+      },
+      {
+        "id": "059341db-b1ff-41f7-8c5e-553d309c2daf",
+        "created_at": "2023-10-10T10:23:17.015Z",
+        "updated_at": "2023-10-09T17:04:37.658Z"
+      },
+      {
+        "id": "4c5d6339-8d56-438e-9771-8267eef30fc5",
+        "created_at": "2023-10-10T03:02:40.529Z",
+        "updated_at": "2023-10-10T13:41:22.096Z"
+      },
+      {
+        "id": "7c4d8477-058f-4fa6-8399-93ea9769f7d4",
+        "created_at": "2023-10-10T13:46:25.273Z",
+        "updated_at": "2023-10-10T09:58:00.992Z"
+      },
+      {
+        "id": "ee71ac3e-3cfc-4c59-9a12-eb52e52edf86",
+        "created_at": "2023-10-09T15:55:55.613Z",
+        "updated_at": "2023-10-10T13:52:07.716Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "183a5139-dc50-4a58-a39a-7049f901d302",
+        "email": "Elsa.Schaefer@roq.tech",
+        "firstName": "Palma",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/295.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fdddaceb-b560-4b4c-804b-8568ef6e32a1",
+        "email": "Chasity22@roq.tech",
+        "firstName": "Genoveva",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43460473",
+        "tenantId": null
+      },
+      {
+        "reference": "9241ae17-d58b-49f2-bd0f-ddb82f040ac8",
+        "email": "Kristopher_Maggio82@roq.tech",
+        "firstName": "Josephine",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81443661",
+        "tenantId": null
+      },
+      {
+        "reference": "bb22d3a8-75aa-4f4c-8e54-d3fb2dd56972",
+        "email": "Declan.Senger@roq.tech",
+        "firstName": "Patsy",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/194.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "759a8c3c-0f54-4a04-8c96-d1bf253fd7c6",
+        "email": "Jesse.Brown70@roq.tech",
+        "firstName": "Freeman",
+        "lastName": "Bergnaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1025.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "33816687-b109-45f9-8df6-d61306437265",
+        "created_at": "2023-10-09T23:10:02.313Z",
+        "updated_at": "2023-10-09T21:50:49.618Z"
+      },
+      {
+        "id": "7d82dafe-9d83-4bf8-b84f-d56a940f099d",
+        "created_at": "2023-10-09T15:53:00.835Z",
+        "updated_at": "2023-10-09T20:10:41.737Z"
+      },
+      {
+        "id": "73a53510-2ae7-488c-b594-2ed60d41489c",
+        "created_at": "2023-10-09T23:08:17.535Z",
+        "updated_at": "2023-10-10T13:47:36.506Z"
+      },
+      {
+        "id": "147520d3-2af9-489f-ae81-b28ed240194b",
+        "created_at": "2023-10-10T15:36:58.098Z",
+        "updated_at": "2023-10-09T22:36:29.955Z"
+      },
+      {
+        "id": "dd4987c3-6b84-49c4-a476-2e30444677f3",
+        "created_at": "2023-10-10T03:50:42.092Z",
+        "updated_at": "2023-10-10T11:55:49.677Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "a6f2fc10-9c8d-48ad-842b-4de716783e99",
+        "created_at": "2023-10-10T11:51:00.184Z",
+        "updated_at": "2023-10-09T22:52:16.806Z"
+      },
+      {
+        "id": "9783116b-54b3-4a57-b852-8a8ba0bbd91f",
+        "created_at": "2023-10-10T11:34:39.141Z",
+        "updated_at": "2023-10-10T05:06:29.744Z"
+      },
+      {
+        "id": "0a7079dd-45c6-4443-8f83-2228cac48ed2",
+        "created_at": "2023-10-10T13:00:04.188Z",
+        "updated_at": "2023-10-10T00:54:48.740Z"
+      },
+      {
+        "id": "2b907c2a-0697-47cd-8b48-cd21b1f81fa9",
+        "created_at": "2023-10-10T11:42:26.375Z",
+        "updated_at": "2023-10-10T12:33:11.945Z"
+      },
+      {
+        "id": "cad90509-331a-45d5-ac7e-5f8c719dcf32",
+        "created_at": "2023-10-09T17:42:00.328Z",
+        "updated_at": "2023-10-10T14:58:27.668Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "45c1d84d-459f-4395-b247-f4d7f97af4e3",
+        "created_at": "2023-10-10T04:49:27.751Z",
+        "updated_at": "2023-10-10T12:42:13.663Z"
+      },
+      {
+        "id": "9bc11b77-0818-4649-a7a1-f70d25a34dd0",
+        "created_at": "2023-10-10T05:15:23.849Z",
+        "updated_at": "2023-10-10T07:40:30.279Z"
+      },
+      {
+        "id": "6e45fbd7-e0f1-4986-bfda-e34332497116",
+        "created_at": "2023-10-10T09:46:32.779Z",
+        "updated_at": "2023-10-09T16:30:46.352Z"
+      },
+      {
+        "id": "458fc024-e6d3-4205-950d-f7f5d51c1583",
+        "created_at": "2023-10-09T22:24:47.098Z",
+        "updated_at": "2023-10-09T20:05:09.611Z"
+      },
+      {
+        "id": "23bb17f6-a611-46b0-bcc5-ae63c4b5b1ca",
+        "created_at": "2023-10-10T07:43:28.604Z",
+        "updated_at": "2023-10-10T06:46:55.756Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "9c98e9cc-1b64-4908-b68a-fdd70ff091fc",
+        "created_at": "2023-10-10T07:55:51.719Z",
+        "updated_at": "2023-10-10T05:29:09.905Z"
+      },
+      {
+        "id": "f81b001d-85ae-415a-8e86-970440c27528",
+        "created_at": "2023-10-10T01:41:43.413Z",
+        "updated_at": "2023-10-10T01:54:31.696Z"
+      },
+      {
+        "id": "ed3b3979-2973-4884-8763-3b7d48c62c3a",
+        "created_at": "2023-10-09T19:46:54.579Z",
+        "updated_at": "2023-10-10T12:35:29.689Z"
+      },
+      {
+        "id": "8ba2a932-f234-4275-bb56-a96e271617fb",
+        "created_at": "2023-10-09T16:58:49.147Z",
+        "updated_at": "2023-10-10T00:37:34.504Z"
+      },
+      {
+        "id": "3ef5eafd-ea22-45df-be3b-5238c4c5a322",
+        "created_at": "2023-10-09T22:07:25.877Z",
+        "updated_at": "2023-10-09T17:29:59.053Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "27fe6bcc-ec93-4fc3-acc3-64a7e03c1b58",
+        "created_at": "2023-10-09T15:49:58.896Z",
+        "updated_at": "2023-10-10T04:43:11.188Z"
+      },
+      {
+        "id": "1c764fcf-7753-443b-a489-b4fba20892c0",
+        "created_at": "2023-10-10T02:27:34.950Z",
+        "updated_at": "2023-10-09T22:26:45.276Z"
+      },
+      {
+        "id": "3148bff7-1288-4f78-8e09-65c0155373f7",
+        "created_at": "2023-10-10T00:00:05.939Z",
+        "updated_at": "2023-10-10T05:33:38.780Z"
+      },
+      {
+        "id": "3bbff833-d40e-4bda-86c5-a74b3e76f5ef",
+        "created_at": "2023-10-09T18:36:54.069Z",
+        "updated_at": "2023-10-10T13:30:00.270Z"
+      },
+      {
+        "id": "624b2fc0-44cc-47ad-aa5f-4093c29a551a",
+        "created_at": "2023-10-10T01:49:34.530Z",
+        "updated_at": "2023-10-10T00:16:07.920Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "09e97a5e-8753-4c72-a975-c85feeaad8fe",
+        "email": "Junius1@roq.tech",
+        "firstName": "Ruthe",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1021.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4ae388c1-f46d-4218-b840-d90552f7414a",
+        "email": "Kassandra.Schowalter72@roq.tech",
+        "firstName": "Celestine",
+        "lastName": "Schmeler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/395.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e97ab930-5858-4aa1-8a10-f3f6c0f61a01",
+        "email": "Charlotte_Heidenreich@roq.tech",
+        "firstName": "Hadley",
+        "lastName": "Bernier-Wunsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80790163",
+        "tenantId": null
+      },
+      {
+        "reference": "eaa6a4f9-da40-432f-8e30-8c29b4d69d20",
+        "email": "Carolanne.Gleason@roq.tech",
+        "firstName": "Mavis",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46140601",
+        "tenantId": null
+      },
+      {
+        "reference": "f6e47e28-9f4e-4295-95a0-85628d1f21a2",
+        "email": "Reymundo45@roq.tech",
+        "firstName": "Amanda",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84229674",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "fa201cd9-c660-49fd-86e1-1e157289b7b8",
+        "created_at": "2023-10-10T01:25:36.308Z",
+        "updated_at": "2023-10-10T14:17:39.406Z"
+      },
+      {
+        "id": "bea1d826-7f82-4333-9531-41fe556086f5",
+        "created_at": "2023-10-10T10:30:36.443Z",
+        "updated_at": "2023-10-10T07:33:45.347Z"
+      },
+      {
+        "id": "1f258eab-bd09-4034-a8ae-567fadd10da4",
+        "created_at": "2023-10-09T20:57:50.394Z",
+        "updated_at": "2023-10-10T10:04:35.963Z"
+      },
+      {
+        "id": "a4562135-c293-41e9-9bbe-dc0c13c13ea9",
+        "created_at": "2023-10-10T08:54:36.745Z",
+        "updated_at": "2023-10-10T11:50:34.797Z"
+      },
+      {
+        "id": "d2819623-40ee-483a-a8fd-8e70afc850cf",
+        "created_at": "2023-10-09T22:52:30.580Z",
+        "updated_at": "2023-10-10T01:50:09.539Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "32c34aa6-1318-4e1f-a20d-a6d6bc9a8686",
+        "created_at": "2023-10-10T07:21:47.632Z",
+        "updated_at": "2023-10-09T15:49:16.636Z"
+      },
+      {
+        "id": "06dfa2ba-cc14-4d38-805e-da6ece8481f6",
+        "created_at": "2023-10-10T04:36:03.598Z",
+        "updated_at": "2023-10-10T10:24:41.733Z"
+      },
+      {
+        "id": "9a9dcbec-7ce6-4b26-b1c6-1865cd534af3",
+        "created_at": "2023-10-10T03:06:06.455Z",
+        "updated_at": "2023-10-10T08:38:42.823Z"
+      },
+      {
+        "id": "a4a015d1-caa6-4f7a-8df0-1093e97d809f",
+        "created_at": "2023-10-10T00:58:59.556Z",
+        "updated_at": "2023-10-10T06:26:11.550Z"
+      },
+      {
+        "id": "666b42c4-cdf1-439b-9490-7d08b15c93c3",
+        "created_at": "2023-10-10T14:22:38.479Z",
+        "updated_at": "2023-10-09T22:54:38.876Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "f21c2221-be15-42ce-af73-c7a005ecf2dc",
+        "created_at": "2023-10-10T04:35:30.337Z",
+        "updated_at": "2023-10-09T21:42:08.090Z"
+      },
+      {
+        "id": "6042a882-fbc5-4aeb-a3f0-a4051e5854b4",
+        "created_at": "2023-10-10T11:00:58.457Z",
+        "updated_at": "2023-10-09T18:30:27.424Z"
+      },
+      {
+        "id": "dd74bba0-b428-465b-b4ad-749ac5c5ae24",
+        "created_at": "2023-10-10T04:52:19.543Z",
+        "updated_at": "2023-10-10T13:54:11.240Z"
+      },
+      {
+        "id": "594070ab-7329-4d7c-87f4-18b56faa2563",
+        "created_at": "2023-10-10T09:36:44.107Z",
+        "updated_at": "2023-10-10T12:25:44.346Z"
+      },
+      {
+        "id": "0cade00d-b6be-488f-91a4-a650bfa6bdf2",
+        "created_at": "2023-10-09T23:20:43.156Z",
+        "updated_at": "2023-10-10T10:44:51.146Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "5de693e5-2253-408e-9461-73cf3f233837",
+        "created_at": "2023-10-10T01:45:11.906Z",
+        "updated_at": "2023-10-09T19:05:11.661Z"
+      },
+      {
+        "id": "c760a1d2-e587-4855-bdf1-265a537e8da5",
+        "created_at": "2023-10-09T19:43:56.909Z",
+        "updated_at": "2023-10-09T21:49:37.561Z"
+      },
+      {
+        "id": "c670580a-c149-4e8f-b46b-f6bef6bcacd7",
+        "created_at": "2023-10-09T15:52:29.082Z",
+        "updated_at": "2023-10-10T02:44:40.789Z"
+      },
+      {
+        "id": "9646293c-cab9-4a93-bbe9-65fcb8a5deda",
+        "created_at": "2023-10-09T22:30:53.733Z",
+        "updated_at": "2023-10-10T04:36:48.155Z"
+      },
+      {
+        "id": "2074021d-73ad-4d44-a7c0-7e962994158b",
+        "created_at": "2023-10-10T12:56:05.915Z",
+        "updated_at": "2023-10-10T08:25:57.417Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "28f445e3-7d1c-43dc-94be-446f24551f5d",
+        "created_at": "2023-10-10T14:27:58.833Z",
+        "updated_at": "2023-10-09T18:38:34.482Z"
+      },
+      {
+        "id": "46a00d68-76c2-44f2-90bd-0efc06f55ad6",
+        "created_at": "2023-10-09T16:59:26.764Z",
+        "updated_at": "2023-10-10T01:27:16.278Z"
+      },
+      {
+        "id": "c5a788ac-8071-4539-aa47-d2fdcabac2be",
+        "created_at": "2023-10-10T12:17:05.136Z",
+        "updated_at": "2023-10-09T23:27:49.939Z"
+      },
+      {
+        "id": "ef73d7a3-8054-4d2f-8ba0-c12d095408ce",
+        "created_at": "2023-10-10T08:22:23.147Z",
+        "updated_at": "2023-10-10T01:45:50.687Z"
+      },
+      {
+        "id": "f2600c71-9446-4f89-ba5e-ee6a091b4084",
+        "created_at": "2023-10-10T14:05:38.443Z",
+        "updated_at": "2023-10-10T02:24:25.286Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e2420f76-d2b3-44cb-ac75-a00749c4b9f7",
+        "email": "Erich_Ritchie58@roq.tech",
+        "firstName": "Lurline",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/502.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7a7214e6-357b-4703-afb9-99b3e3ec8bc0",
+        "email": "Raymundo_Feeney71@roq.tech",
+        "firstName": "Cielo",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/193.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "86f27a64-81f5-47f8-9a92-26b1da5f0ae4",
+        "email": "Karen.Glover@roq.tech",
+        "firstName": "Jenifer",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66993144",
+        "tenantId": null
+      },
+      {
+        "reference": "950e41c9-dbf5-4765-9c78-2349ae73161a",
+        "email": "Dayna61@roq.tech",
+        "firstName": "Agustina",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1072.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a4b14029-116a-422d-9c69-76614cdefb55",
+        "email": "Nelle.OConnell@roq.tech",
+        "firstName": "Antone",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59534865",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "d31c08c4-6776-4a05-8091-169f1f4fb9e0",
+        "created_at": "2023-10-10T12:59:56.444Z",
+        "updated_at": "2023-10-09T22:34:11.182Z"
+      },
+      {
+        "id": "747056b4-3559-42b7-9728-128a2ce002cf",
+        "created_at": "2023-10-09T20:56:21.040Z",
+        "updated_at": "2023-10-10T04:46:07.227Z"
+      },
+      {
+        "id": "84c32788-aae4-408f-87bf-7155ed485765",
+        "created_at": "2023-10-09T16:22:27.524Z",
+        "updated_at": "2023-10-10T00:57:26.178Z"
+      },
+      {
+        "id": "0eae639d-5bc3-4c71-a9ed-9dfe0e995284",
+        "created_at": "2023-10-10T12:57:15.525Z",
+        "updated_at": "2023-10-09T19:49:09.479Z"
+      },
+      {
+        "id": "4643fb2d-2e56-47bb-bd95-96ccd62ea0db",
+        "created_at": "2023-10-10T11:30:50.805Z",
+        "updated_at": "2023-10-09T19:24:18.896Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "9c7c3c25-46de-4c2c-8690-0386dd4231cb",
+        "created_at": "2023-10-10T12:09:13.221Z",
+        "updated_at": "2023-10-10T08:49:54.472Z"
+      },
+      {
+        "id": "7630c949-337b-4edf-a2d5-998f09248230",
+        "created_at": "2023-10-09T23:13:51.426Z",
+        "updated_at": "2023-10-10T11:19:44.917Z"
+      },
+      {
+        "id": "e915870e-3a0e-431a-9f75-65a246f5d7b4",
+        "created_at": "2023-10-10T11:57:10.775Z",
+        "updated_at": "2023-10-10T05:11:13.441Z"
+      },
+      {
+        "id": "42b2872b-b74c-4bf3-ab47-97ea19d216cc",
+        "created_at": "2023-10-10T12:46:00.229Z",
+        "updated_at": "2023-10-09T23:57:10.663Z"
+      },
+      {
+        "id": "ee7af7ff-249a-49db-b91e-aa0425b33d01",
+        "created_at": "2023-10-10T11:14:00.247Z",
+        "updated_at": "2023-10-09T18:00:26.105Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "e1c43a6a-1599-4e38-9a4b-1d97e39a3b7b",
+        "created_at": "2023-10-09T17:24:44.818Z",
+        "updated_at": "2023-10-09T21:07:59.322Z"
+      },
+      {
+        "id": "dd9a3f4b-fce1-4b9d-9948-2eaeb8b4d226",
+        "created_at": "2023-10-10T05:41:56.584Z",
+        "updated_at": "2023-10-10T05:53:29.664Z"
+      },
+      {
+        "id": "7c73f6c2-fdcd-4106-ad67-93343751e7dc",
+        "created_at": "2023-10-09T16:53:27.996Z",
+        "updated_at": "2023-10-10T13:13:47.302Z"
+      },
+      {
+        "id": "63e10c07-149f-4bb2-b018-3d6b0e40f310",
+        "created_at": "2023-10-09T23:25:18.399Z",
+        "updated_at": "2023-10-10T01:14:05.383Z"
+      },
+      {
+        "id": "e2648f83-37de-481b-a13d-c55f43d0fdcd",
+        "created_at": "2023-10-10T05:39:15.959Z",
+        "updated_at": "2023-10-10T14:42:04.417Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "6c87ad61-c6da-4ac7-94a5-6516054d7cd8",
+        "created_at": "2023-10-10T04:02:59.163Z",
+        "updated_at": "2023-10-09T22:27:28.400Z"
+      },
+      {
+        "id": "c17d9640-6445-484d-8a63-a698745dd531",
+        "created_at": "2023-10-09T16:32:53.569Z",
+        "updated_at": "2023-10-10T09:02:15.724Z"
+      },
+      {
+        "id": "cc58a90b-fc14-4a19-919f-f1b5890c710d",
+        "created_at": "2023-10-10T13:30:19.931Z",
+        "updated_at": "2023-10-09T17:40:02.413Z"
+      },
+      {
+        "id": "a82e89e2-179f-4904-9d7e-9708735ad500",
+        "created_at": "2023-10-10T06:04:25.861Z",
+        "updated_at": "2023-10-10T02:17:55.499Z"
+      },
+      {
+        "id": "28928f07-6f9f-47ce-a06a-d421d1bc0151",
+        "created_at": "2023-10-10T11:55:11.910Z",
+        "updated_at": "2023-10-10T07:17:12.772Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "f576dde4-f723-4584-b4de-5d5932e12c30",
+        "created_at": "2023-10-09T20:02:59.585Z",
+        "updated_at": "2023-10-09T19:37:29.517Z"
+      },
+      {
+        "id": "2ab1a663-a942-4c36-8cda-b989f627b938",
+        "created_at": "2023-10-09T19:18:28.225Z",
+        "updated_at": "2023-10-10T00:30:02.568Z"
+      },
+      {
+        "id": "a5b35c0a-c3ff-495b-b64e-33366c5cc280",
+        "created_at": "2023-10-09T16:09:50.933Z",
+        "updated_at": "2023-10-10T00:08:29.666Z"
+      },
+      {
+        "id": "24cfad7e-467e-4912-87f7-5e4a9ae786e7",
+        "created_at": "2023-10-10T02:27:36.230Z",
+        "updated_at": "2023-10-10T11:35:20.084Z"
+      },
+      {
+        "id": "29981472-f866-46e6-b3e7-3ec57f59ac91",
+        "created_at": "2023-10-09T16:37:00.578Z",
+        "updated_at": "2023-10-10T08:07:11.640Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "44c5e737-c518-4a52-a301-9db72ccd4843",
+        "email": "Joana73@roq.tech",
+        "firstName": "Ezra",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ee71780a-9b55-433b-b761-17890ed4a8e2",
+        "email": "Kennedi.Vandervort22@roq.tech",
+        "firstName": "Elroy",
+        "lastName": "Klein",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75055162",
+        "tenantId": null
+      },
+      {
+        "reference": "a9b7a9fb-6421-4415-8f52-b3009087a2cf",
+        "email": "Anibal.Baumbach82@roq.tech",
+        "firstName": "Riley",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27556915",
+        "tenantId": null
+      },
+      {
+        "reference": "d996ba57-6196-4e60-ae55-7fcc397d8c11",
+        "email": "Brandt56@roq.tech",
+        "firstName": "Delaney",
+        "lastName": "Purdy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/381.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e91a5e11-da65-4b63-86b7-721a5eb42c63",
+        "email": "Earnestine_Weimann@roq.tech",
+        "firstName": "Shanon",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/260.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vision_strategy": [
+      {
+        "id": "d776d4d4-a921-413f-9b93-262df9429eec",
+        "created_at": "2023-10-09T23:45:36.573Z",
+        "updated_at": "2023-10-10T02:28:31.367Z"
+      },
+      {
+        "id": "2652ba38-10c8-43b2-a56c-fd4e1b4e7c35",
+        "created_at": "2023-10-10T08:55:29.289Z",
+        "updated_at": "2023-10-10T07:37:37.713Z"
+      },
+      {
+        "id": "fb4f60a4-fd3c-470d-b576-db4eb660d05d",
+        "created_at": "2023-10-10T12:57:39.722Z",
+        "updated_at": "2023-10-10T10:29:41.301Z"
+      },
+      {
+        "id": "dcab5fff-7cc3-459d-bae3-fd0ea4622624",
+        "created_at": "2023-10-09T23:34:10.659Z",
+        "updated_at": "2023-10-10T10:57:03.358Z"
+      },
+      {
+        "id": "b1047cdb-e0b8-4879-8e27-1f3b64fbd78d",
+        "created_at": "2023-10-09T20:53:39.919Z",
+        "updated_at": "2023-10-10T12:58:43.391Z"
+      }
+    ],
+    "user_performance": [
+      {
+        "id": "0d03419b-5f75-4cd1-a5bd-55acad1ac3a6",
+        "created_at": "2023-10-10T14:16:00.112Z",
+        "updated_at": "2023-10-10T10:31:14.035Z"
+      },
+      {
+        "id": "b7b5e787-6832-43b9-a099-8208e8ada193",
+        "created_at": "2023-10-09T17:33:04.551Z",
+        "updated_at": "2023-10-10T12:38:32.364Z"
+      },
+      {
+        "id": "4db8507f-7422-48f1-899c-09015657acd8",
+        "created_at": "2023-10-10T01:24:22.267Z",
+        "updated_at": "2023-10-10T05:39:53.596Z"
+      },
+      {
+        "id": "3d20f8e0-3dc0-4383-b2f9-3aabac4fefe1",
+        "created_at": "2023-10-10T06:52:32.104Z",
+        "updated_at": "2023-10-10T11:22:32.948Z"
+      },
+      {
+        "id": "0f97da5e-7442-4ba4-9cb1-b610a7778351",
+        "created_at": "2023-10-10T07:38:23.478Z",
+        "updated_at": "2023-10-10T02:26:27.871Z"
+      }
+    ],
+    "regular_meetings": [
+      {
+        "id": "6d6bafd5-d8ee-40d7-9862-c0efdbedac30",
+        "created_at": "2023-10-09T15:43:23.548Z",
+        "updated_at": "2023-10-10T00:37:09.253Z"
+      },
+      {
+        "id": "6fbd009e-7f88-4bde-a0c4-51a9747bc65f",
+        "created_at": "2023-10-10T01:12:28.858Z",
+        "updated_at": "2023-10-10T12:38:53.135Z"
+      },
+      {
+        "id": "8a27a443-88f8-4d7c-84e3-ba00ac22ed29",
+        "created_at": "2023-10-10T05:35:56.512Z",
+        "updated_at": "2023-10-10T00:49:22.064Z"
+      },
+      {
+        "id": "e6743b35-cd59-4bdf-8fb6-b9bf59f3a15b",
+        "created_at": "2023-10-09T21:10:41.473Z",
+        "updated_at": "2023-10-10T05:42:30.690Z"
+      },
+      {
+        "id": "138c9196-e8ab-4529-b2d1-689e6780088d",
+        "created_at": "2023-10-10T09:31:10.289Z",
+        "updated_at": "2023-10-10T08:56:58.612Z"
+      }
+    ],
+    "business_improvement": [
+      {
+        "id": "89e43754-7440-400b-a4bf-e5064dfe1817",
+        "created_at": "2023-10-10T09:50:54.101Z",
+        "updated_at": "2023-10-10T08:01:07.341Z"
+      },
+      {
+        "id": "e6beaa87-5f77-4adb-a981-b06640578a3d",
+        "created_at": "2023-10-09T16:00:17.301Z",
+        "updated_at": "2023-10-09T17:51:09.888Z"
+      },
+      {
+        "id": "5ff49e58-c484-422b-a004-8ae27056ea95",
+        "created_at": "2023-10-10T10:17:52.520Z",
+        "updated_at": "2023-10-10T15:06:43.231Z"
+      },
+      {
+        "id": "3162ccfb-e106-4d16-9307-8b9be58a298f",
+        "created_at": "2023-10-09T20:11:44.929Z",
+        "updated_at": "2023-10-10T01:39:40.263Z"
+      },
+      {
+        "id": "7ddb6fbc-8347-40e7-9a49-b3e8890fc4d9",
+        "created_at": "2023-10-10T02:36:51.017Z",
+        "updated_at": "2023-10-10T15:09:29.603Z"
+      }
+    ],
+    "accountability_scorecard": [
+      {
+        "id": "236a726a-891a-4860-af9c-25cb79ad1b9e",
+        "created_at": "2023-10-10T08:28:57.478Z",
+        "updated_at": "2023-10-10T02:37:49.988Z"
+      },
+      {
+        "id": "cac4bdba-0131-4887-96bd-7c43454e2f5f",
+        "created_at": "2023-10-09T20:38:48.626Z",
+        "updated_at": "2023-10-10T10:28:10.484Z"
+      },
+      {
+        "id": "6917fbfc-83b6-4024-8e5c-95b27cfc8f67",
+        "created_at": "2023-10-10T10:23:16.794Z",
+        "updated_at": "2023-10-10T07:02:13.690Z"
+      },
+      {
+        "id": "6e84fba4-f0cf-49dd-98c3-a3ba5e8f4b95",
+        "created_at": "2023-10-09T20:14:28.998Z",
+        "updated_at": "2023-10-09T17:26:02.991Z"
+      },
+      {
+        "id": "0864ea6c-52a0-45a6-9a3a-b8708c016a2f",
+        "created_at": "2023-10-10T14:18:08.375Z",
+        "updated_at": "2023-10-09T21:00:21.665Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0bc8b14f-9159-47a6-9066-5858162c12d0",
+        "email": "Annabel.Rau@roq.tech",
+        "firstName": "Felix",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/267.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "06fb8baf-3d1a-4485-82e0-ee14b49f258e",
+        "email": "Ivy94@roq.tech",
+        "firstName": "Maureen",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4648591",
+        "tenantId": null
+      },
+      {
+        "reference": "830649d7-66cb-4d15-b909-23eb95ffa957",
+        "email": "Sallie.Runolfsson99@roq.tech",
+        "firstName": "Fanny",
+        "lastName": "Bradtke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72602149",
+        "tenantId": null
+      },
+      {
+        "reference": "ad712de3-33e9-49cc-8035-d090e2ecae0b",
+        "email": "Calista_Langosh@roq.tech",
+        "firstName": "Lenny",
+        "lastName": "Funk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/570.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c5aeb543-341f-4665-9bb8-5229a65e599c",
+        "email": "Waino_Crooks64@roq.tech",
+        "firstName": "Rosalinda",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/582.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
